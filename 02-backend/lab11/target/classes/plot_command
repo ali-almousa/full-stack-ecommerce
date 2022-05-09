@@ -1,0 +1,1 @@
+plot "select.dat" with linesp lt -1 lc 10 lw 1, "merge.dat" with linesp lt -1 lc 6 lw 1, "insert.dat" with linesp lt -1 lc 7 lw 1, "quick.dat" with linesp lt -1 lc 8 lw 1, "bubble.dat" with linesp lt -1 lc 11 lw 1, "heap.dat" with linesp lt -1 lc 9 lw 1
